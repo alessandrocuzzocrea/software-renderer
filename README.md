@@ -1,4 +1,4 @@
-# SoftwareRenderer
+# Software Renderer
 
 ![screenshot](screenshots/screen0.gif)
 
